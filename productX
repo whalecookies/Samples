@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tourframework>
+	<header>
+		<maintitle width="100">
+			<subtitle><![CDATA[Quick tour]]></subtitle>
+			<title><![CDATA[CompanyX ProductX Meetings]]></title>
+		</maintitle>
+		<ctapromos>
+		
+			<promo width="124"> 
+			<externallink>http://www.ProductX.com/go/qt_buy</externallink>
+				<header><![CDATA[Buy Now]]></header>
+
+				<body><![CDATA[Get unlimited meetings for as low as $59/month.]]></body>
+			</promo>
+			<promo width="135"> 
+			<externallink>http://www.ProductX.com/go/qt_freetrial</externallink>
+				<header><![CDATA[Try it Free]]></header>
+				<body><![CDATA[Use ProductX free for 14 days.]]></body>
+			</promo>
+			
+		</ctapromos>
+	</header>
+	<leftblock bottomlogoleft="images/ProductXCompanyXlogo.png" bottomlogoright="images/CompanyXlogo.png" externalLinkLeft="http://www.ProductX.com/" externalLinkRight="http://www.CompanyX.com/">
+		<textcopy>
+			<header><![CDATA[Share what's on your screen with anyone, anywhere&#8212;live.]]></header>
+			<body><![CDATA[Get everyone on the same page with ProductX. Everyone sees the same thing as you talk! ProductX is great for:<br/><br/><ul><li>Team collaboration</li><li>Sales presentations</li><li>Lead-generating webinars</li><li>Online training</li><li>Any kind of meeting</li></ul>]]></body>
+		</textcopy>
+		<mainmenu showMenuButtons="false">
+			<navitem id="idForCSS1" file="EndUserTour.swf" xmlfile="xmls/end_user.xml" />
+			<name>ProductX for the Enterprise</name>
+		</mainmenu>
+		<linkmenu>
+			<friend icon="envelope.gif"> 
+			<externallink>http://www.ebay.com</externallink>
+			<![CDATA[Send to a friend]]>
+			</friend>
+			<cc icon="cc.gif"><![CDATA[View with Subtitles]]></cc>
+		</linkmenu>
+	</leftblock>
+	<copyright>
+		<![CDATA[&copy;1992-2009 ProductX Communications, Inc. All rights reserved.]]>
+	</copyright>
+</tourframework>
