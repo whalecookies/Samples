@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game>
+
+	<timingURL>/challenge/scripts/topscore.php</timingURL>
+	<submitForm>/challenge/scripts/score.php</submitForm>
+	<getScoreboard>/challenge/scripts/leaderboard.php</getScoreboard>
+	<infopack>/challenge/downloads/info_pack.zip</infopack>
+	
+	<place key="aus" value="Australia">
+		<prizeImg>images/prize.png</prizeImg>
+		<desc>15 calculator &amp; pen sets await those who’re ahead of their game. Limited to 1 prize per participant.</desc>
+		<term>0</term>
+	</place>
+	
+	<place key ="hind" value="India">
+		<prizeImg>images/prize.png</prizeImg>
+		<desc>20 calculator &amp; pen sets await those who’re ahead of their game. Limited to 1 prize per participant.</desc>
+		<term>2</term>
+	</place>
+	
+	<place key="ind" value="Indonesia">
+		<prizeImg>images/prize.png</prizeImg>
+		<desc>20 calculator &amp; pen sets await those who’re ahead of their game. Limited to 1 prize per participant.</desc>
+		<term>1</term>
+	</place>
+	
+	<place key="mly" value="Malaysia">
+		<prizeImg>images/prize.png</prizeImg>
+		<desc>20 calculator &amp; pen sets await those who’re ahead of their game. Limited to 1 prize per participant.</desc>
+		<term>1</term>
+	</place>
+	
+	<place key="nz" value="New Zealand">
+		<prizeImg>images/prize.png</prizeImg>
+		<desc>20 calculator &amp; pen sets await those who’re ahead of their game. Limited to 1 prize per participant.</desc>
+		<term>0</term>
+	</place>
+	
+	<place key="phi" value="Philippines">
+		<prizeImg>images/prize.png</prizeImg>
+		<desc>20 calculator &amp; pen sets await those who’re ahead of their game. Limited to 1 prize per participant.</desc>
+		<term>1</term>
+	</place>
+	
+	<place key="sg" value="Singapore">
+		<prizeImg>images/prize.png</prizeImg>
+		<desc>20 calculator &amp; pen sets await those who’re ahead of their game. Limited to 1 prize per participant.</desc>
+		<term>1</term>
+	</place>
+	
+	<place key="th" value="Thailand">
+		<prizeImg>images/prize.png</prizeImg>
+		<desc>20 calculator &amp; pen sets await those who’re ahead of their game. Limited to 1 prize per participant.</desc>
+		<term>1</term>
+	</place>
+	
+	<place key="viet" value="Vietnam">
+		<prizeImg>images/prize.png</prizeImg>
+		<desc>20 calculator &amp; pen sets await those who’re ahead of their game. Limited to 1 prize per participant.</desc>
+		<term>1</term>
+	</place>
+	
+	<tnc>
+		<![CDATA[The Challenge is open to participants in ANZ* region. Employees or affiliate companies, associate agencies, advertising agencies, and their relatives are not eligible to participate in this contest. *ANZ covers <i>Australia and New Zealand only</i>.<br/><br/>Participants must complete the Challenge and answer all 5 questions in the quiz correctly in order to be entered into the lucky draw for a chance to win 1 of 20 calculator &amp; pen sets. Players are allowed multiple entries, but each contestant is only eligible for one prize. <br/><br/>All participants must ensure that their addresses are accurate, complete and is not a PO box address. Please note that PO box addresses or incomplete addresses will not be entered into the competition as prizes cannot be delivered.<br/><br/>While we strives to deliver the prizes to the winners, we will not be held responsible for non-receipt of the prizes due to uncontrollable or unforeseen circumstances.<br/><br/>We reserve the right to substitute a prize of equal value if a prize is unavailable. The prize can neither be exchanged for cash/another product under any circumstances nor settled against any outstanding amount due to the winner.<br/><br/>All winners will be notified via email for prize redemption.<br/><br/>We reserve the right to alter or cancel this Challenge at any time. We will not be held responsible for lost, late, misdirected, damaged, or incomplete contest entries nor for typographical or other errors in advertising and communications.<br/><br/>By participating in this Challenge, participants are deemed to have: <br/>(a) Agreed to have their names and personal details used for promotional purposes.<br/><br/>Individual participants will be liable for any tax or statutory requirements arising out of participation in this Challenge.<br/><br/>By participating in this Challenge, the participant agrees to be bound by these terms and conditions.<br/><br/>In the event of any dispute relating to the Challenge, our decision will be final and conclusive.<br/><br/>While every effort is made to keep this microsite up and running smoothly, we take no responsibility for, and will not be liable for, the contest being temporarily unavailable due to technical issues beyond our control.<br/><br/>Closing date for this contest is 30 April 2012]]>
+	</tnc>
+	
+	<tnc>
+		<![CDATA[The Challenge is open to participants in ASEAN* region. Employees of affiliate companies, associate agencies, advertising agencies, and their relatives are not eligible to participate in this contest. <i>*ASEAN covers Singapore, Malaysia, Indonesia, Philippines, Thailand and Vietnam only</i>. <br/><br/>Participants must complete the Challenge and answer all 5 questions in the quiz correctly in order to be entered into the lucky draw for a chance to win 1 of 20 calculator &amp; pen sets. Players are allowed multiple entries, but each contestant is only eligible for one prize. <br/><br/>All participants must ensure that their addresses are accurate, complete and is not a PO box address. Please note that PO box addresses or incomplete addresses will not be entered into the competition as prizes cannot be delivered.<br/><br/>While we strives to deliver the prizes to the winners, we will not be held responsible for non-receipt of the prizes due to uncontrollable or unforeseen circumstances.<br/><br/>We reserve the right to substitute a prize of equal value if a prize is unavailable. The prize can neither be exchanged for cash/another product under any circumstances nor settled against any outstanding amount due to the winner.<br/><br/>All winners will be notified via email for prize redemption.<br/><br/>We reserve the right to alter or cancel this Challenge at any time. We will not be held responsible for lost, late, misdirected, damaged, or incomplete contest entries nor for typographical or other errors in advertising and communications.<br/><br/>By participating in this Challenge, participants are deemed to have: <br/>(a) Agreed to have their names and personal details used for promotional purposes.<br/><br/>Individual participants will be liable for any tax or statutory requirements arising out of participation in this Challenge.<br/><br/>By participating in this Challenge, the participant agrees to be bound by these terms and conditions.<br/><br/>In the event of any dispute relating to the Challenge, our decision will be final and conclusive.<br/><br/>While every effort is made to keep this microsite up and running smoothly, we take no responsibility for, and will not be liable for, the contest being temporarily unavailable due to technical issues beyond our control.<br/><br/>Closing date for this contest is 30 April 2012
+		
+		]]>
+	</tnc>
+	
+	<tnc>
+		<![CDATA[The Challenge is open to participants in India only. Employees of affiliate companies, associate agencies, advertising agencies, and their relatives are not eligible to participate in this contest.<br/><br/>Participants must complete the Challenge and answer all 5 questions in the quiz correctly in order to be entered into the lucky draw for a chance to win 1 of 20 calculator &amp; pen sets. Players are allowed multiple entries, but each contestant is only eligible for one prize. <br/><br/>All participants must ensure that their addresses are accurate, complete and is not a PO box address. Please note that PO box addresses or incomplete addresses will not be entered into the competition as prizes cannot be delivered.<br/><br/>While we strives to deliver the prizes to the winners, we will not be held responsible for non-receipt of the prizes due to uncontrollable or unforeseen circumstances.<br/><br/>We reserve the right to substitute a prize of equal value if a prize is unavailable. The prize can neither be exchanged for cash/another product under any circumstances nor settled against any outstanding amount due to the winner.<br/><br/>All winners will be notified via email for prize redemption.<br/><br/>We reserve the right to alter or cancel this Challenge at any time. We will not be held responsible for lost, late, misdirected, damaged, or incomplete contest entries nor for typographical or other errors in advertising and communications.<br/><br/>By participating in this Challenge, participants are deemed to have: <br/>(a) Agreed to have their names and personal details used for promotional purposes.<br/><br/>Individual participants will be liable for any tax or statutory requirements arising out of participation in this Challenge.<br/><br/>By participating in this Challenge, the participant agrees to be bound by these terms and conditions.<br/><br/>In the event of any dispute relating to the Challenge, our decision will be final and conclusive.<br/><br/>While every effort is made to keep this microsite up and running smoothly, we take no responsibility for, and will not be liable for, the contest being temporarily unavailable due to technical issues beyond our control.<br/><br/>Closing date for this contest is 30 April 2012]]>
+	</tnc>
+	
+	<timingURL2>/challenge/scripts/topscore.php</timingURL2>
+	<submitForm2>/challenge/scripts/score.php</submitForm2>
+	<getScoreboard2>/challenge/scripts/leaderboard.php</getScoreboard2>
+	<infopack2>/challenge/downloads/info_pack.zip</infopack2>
+</game>
